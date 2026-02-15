@@ -26,7 +26,16 @@ A comprehensive deep-dive into E-commerce data using a multi-table schema. This 
 * **Revenue Analytics:** Calculating total spending per customer and total shipping value using complex aggregations.
 * **Data Handling:** Using `COALESCE` to manage `NULL` values in financial reports and performing 4-way table joins (Customers -> Orders -> Details -> Products).
 
-#### 3. [Simple Task](https://github.com/SamirHendawy/MySql-Projects/tree/main/simple%20task)
+#### 3. [Subquery Practice (Mastering Nested Queries)](https://github.com/SamirHendawy/MySql-Projects/tree/main/subquery-practice)
+A dedicated module for mastering the versatility of **Subqueries** in MySQL. This project demonstrates how to solve complex analytical problems by nesting queries within various clauses.
+
+**Key Technical Scenarios:**
+* **Subqueries in SELECT & WHERE:** Creating dynamic columns and advanced filtering based on aggregate data (e.g., customers with more than 5 orders).
+* **Derived Tables (FROM Clause):** Using subqueries to generate temporary tables for multi-step data processing.
+* **Correlated Subqueries:** Implementing logic where the inner query depends on the outer query (e.g., identifying products priced above their specific category average).
+* **Logical Filtering:** Efficiently using `EXISTS` and `NOT EXISTS` to find orphan records and inactive accounts.
+
+#### 4. [Simple Task](https://github.com/SamirHendawy/MySql-Projects/tree/main/simple%20task)
 A practical collection of SQL queries designed to handle fundamental data requests and database operations.
 * **Content:** Includes the complete Dataset and a solution script.
 * **Scope:** Contains **20 solved queries** covering filtering, aggregations, table joins, and grouping logic.
