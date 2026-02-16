@@ -42,7 +42,7 @@ A practical collection of SQL queries designed to handle fundamental data reques
 
 ---
 
-#### 5. [Pro Library Management System](https://github.com/SamirHendawy/MySql-Projects/tree/main/Library-Management-System)
+#### 5. [Library Management System](https://github.com/SamirHendawy/MySql-Projects/tree/main/Library-Management-System)
 A robust database solution for managing library assets and tracking patron activity. This project focuses on inventory accuracy and real-time availability logic.
 
 **Key Technical Challenges:**
